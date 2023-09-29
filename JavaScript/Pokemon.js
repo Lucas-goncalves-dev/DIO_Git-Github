@@ -7,3 +7,5 @@ let selecionavel = true
 
 
 console.log(nomePokemon)
+
+console.log("Teste")
