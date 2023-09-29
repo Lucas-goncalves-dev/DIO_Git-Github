@@ -5,3 +5,5 @@ let pontosdeVidaPokemon = 45
 let pokemonSexo = "M"
 let selecionavel = true
 
+
+console.log(nomePokemon)
